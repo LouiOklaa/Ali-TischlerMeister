@@ -12,6 +12,6 @@
 <p>{{ $reply }}</p>
 <p>Wenn Sie weitere Fragen haben, können Sie sich gerne an uns wenden!</p>
 <p>Mit freundlichen Grüßen,</p>
-<p>OPLAS BAU Support Team</p>
+<p>Ali TischlerMeister Support Team</p>
 </body>
 </html>

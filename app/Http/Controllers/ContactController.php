@@ -11,7 +11,7 @@ class ContactController extends Controller
     public function send(Request $request)
     {
         //Send Email
-        Mail::to('info@oplas-bau.de')->send(new ContactMail($request->all()));
+        Mail::to('info@alitischlermeister.de')->send(new ContactMail($request->all()));
 
         return response()->json(['success' => 'Ihre Anfrage wurde erfolgreich gesendet. Dankeschön!']);
     }

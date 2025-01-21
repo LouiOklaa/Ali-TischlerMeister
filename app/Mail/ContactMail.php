@@ -28,7 +28,7 @@ class ContactMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Neue Nachricht von oplas-bau.de',
+            subject: 'Neue Nachricht von alitischlermeister.de',
         );
     }
 
